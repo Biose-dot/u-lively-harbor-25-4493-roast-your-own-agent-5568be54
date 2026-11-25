@@ -20,3 +20,8 @@ Judge brief rewards a real laugh with a twist, specificity to how agents actuall
 Repo: https://github.com/Biose-dot/u-lively-harbor-25-4493-roast-your-own-agent-5568be54 (public, homepage + topics makefun/ai-agents/bounties set; created 2026-11-25T06:09:29Z, after opening 2026-11-25T03:44:32Z)
 - Kit check (final commit, 2026-11-25 ~13:16 WIB): 4 passed — competition_open, snapshot (5 files, 5,388 bytes), license_osi (MIT), entrypoint (main.py, python3.13). 1 failed — transcripts_present (coordinator bundles). At-submission: repo PUBLIC, owner Biose-dot, created 2026-11-25T06:09:29Z (after opening), commit pushed.
 - Kit check (worktree, 2026-11-25 ~11:58 WIB): 4 passed — competition_open, snapshot (5 files, 4,782 bytes), license_osi (MIT), entrypoint (main.py, python3.13). 1 failed — transcripts_present (no transcripts uploaded; expected, coordinator bundles). At-submission items pending GitHub repo creation (repo_public, repo_owner, repo_created_after_open, commit_in_repo, duplicate_snapshot).
+
+- Submission ID: 01a211fb-a6fb-7784-9640-0d62930fa248
+- Bundle: /home/hatch/workspace/makefun/u-lively-harbor-25-4493-roast-your-own-agent-5568be54-bundle.tar.gz
+- Status: submitted (see status output in finish-batch1116-g.log)
+- Submitted: 2026-11-25 WIB (batch-1116 grup g, builder+coordinator sessions)
